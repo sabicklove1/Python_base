@@ -17,7 +17,7 @@
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/GoFast/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/GoFast/GoFast.ipynb)
 
-- **Льготные займы для стартапов - предобработка,исследовательсикй анализ, работа с выбросами, сводные таблицы; библиотеки: ``pandas`, `numpy`, `seaborn`, `matplotlib`**
+- **Льготные займы для стартапов - предобработка, исследовательсикй анализ, работа с выбросами, сводные таблицы; библиотеки: `pandas`, `numpy`, `seaborn`, `matplotlib`**
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/Yandex_afisha.ipynb)
 
