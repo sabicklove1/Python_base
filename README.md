@@ -13,11 +13,14 @@
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/GoFast/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/GoFast/GoFast.ipynb)
 
+- **10-летие игровой индустрии (часть проекта) - предобработка, очистка, функции; библиотеки: `pandas`**
+  - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/10Gaming/README.md)
+  - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/10Gaming/gaming_industry.ipynb)
+
 
 - **Яндекс.Афиша - предобработка,; библиотеки: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`**
   - [Описание проекта и выводы]()
   - [Код-проект]()
-
 
 
 ---
