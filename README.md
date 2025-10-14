@@ -18,8 +18,8 @@
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/GoFast/GoFast.ipynb)
 
 - **Льготные займы для стартапов - предобработка, исследовательсикй анализ, работа с выбросами, сводные таблицы; библиотеки: `pandas`, `numpy`, `seaborn`, `matplotlib`**
-  - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/README.md)
-  - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/Yandex_afisha.ipynb)
+  - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Startups_money/README.md)
+  - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Startups_money/financial_startup.ipynb)
 
 - **10-летие игровой индустрии (часть проекта) - предобработка, очистка, функции; библиотеки: `pandas`**
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/10Gaming/README.md)
