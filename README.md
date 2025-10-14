@@ -5,7 +5,7 @@
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/Yandex_afisha.ipynb)
 
- - **Shut up and take my money - предобработка, исследовательский анализ, графики, решение задач; библиотеки: `pandas`, `matplotlib`, `seaborn`, `phik`**
+- **Shut up and take my money - предобработка, исследовательский анализ, графики, решение задач; библиотеки: `pandas`, `matplotlib`, `seaborn`, `phik`**
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Food_Moscow/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Food_Moscow/food_market.ipynb)
 
@@ -17,6 +17,10 @@
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/GoFast/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/GoFast/GoFast.ipynb)
 
+- **Льготные займы для стартапов - предобработка,исследовательсикй анализ, работа с выбросами, сводные таблицы; библиотеки: ``pandas`, `numpy`, `seaborn`, `matplotlib`**
+  - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/README.md)
+  - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Yandex_Afisha/Yandex_afisha.ipynb)
+
 - **10-летие игровой индустрии (часть проекта) - предобработка, очистка, функции; библиотеки: `pandas`**
   - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/10Gaming/README.md)
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/10Gaming/gaming_industry.ipynb)
@@ -27,6 +31,7 @@
 - **Яндекс.Афиша - предобработка,; библиотеки: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`**
   - [Описание проекта и выводы]()
   - [Код-проект]()
+
 
 
 ---
