@@ -32,8 +32,8 @@
   - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/Ya_books/Yandex_knigi_ab_hypothesis1.ipynb)
 
 - **Разработка A/B-тестов тип.TikTok - анализ, графики, выборки, тестирование, проверка тестов; библиотеки: `pandas`, `scipy.stats`, `matplotlib`, `statsmodels.stats`**
-  - [Описание проекта и выводы]()
-  - [Код-проект]()
+  - [Описание проекта и выводы](https://github.com/sabicklove1/Python_base/blob/main/AB_TikTok/README.md)
+  - [Код-проект](https://github.com/sabicklove1/Python_base/blob/main/AB_TikTok/ab_tiktok.ipynb)
 
 
 
